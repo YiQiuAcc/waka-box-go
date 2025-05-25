@@ -30,7 +30,16 @@ English | [简体中文](./README_zh.md)
 1. For updating a markdown file，add comments to the place where you want to update in the markdown file.
    ```markdown
     <!-- waka-box start -->
-    <!-- waka-box end -->
+#### <a href="https://gist.github.com/b054e7c4c7b10b2b5e6480a50cfc86ea" target="_blank">📊 Weekly development breakdown</a>
+```text
+Markdown   🕓 1h6m ██████████████████████████▌▒▒ 91.8%
+HTML       🕓 2m   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.9%
+Dart       🕓 2m   ▉▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3.1%
+JavaScript 🕓 0s   ▏▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.7%
+Other      🕓 0s   ▏▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.5%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
    ```
 
 ### 🚀 Project setup
