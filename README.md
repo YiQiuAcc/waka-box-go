@@ -32,11 +32,11 @@ English | [简体中文](./README_zh.md)
     <!-- waka-box start -->
 #### <a href="https://gist.github.com/b054e7c4c7b10b2b5e6480a50cfc86ea" target="_blank">📊 Weekly development breakdown</a>
 ```text
-JavaScript         🕓 14h34m █████████████▏▒▒▒▒▒ 69.5%
-HTML               🕓 3h46m  ███▍▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 18.0%
-Markdown           🕓 1h2m   ▉▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  5.0%
-CSS                🕓 59m    ▉▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  4.7%
-YAML               🕓 24m    ▎▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1.9%
+JavaScript         🕓 12h57m ██████████████▒▒▒▒▒ 73.8%
+HTML               🕓 3h25m  ███▋▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 19.5%
+CSS                🕓 59m    █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  5.6%
+GLSL               🕓 6m     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.6%
+Wavefront Material 🕓 3m     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0.3%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
